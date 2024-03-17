@@ -1,6 +1,6 @@
 # Search Engine
 
-A web crawler and search engine running off a local database. Developed with Node.js and runs post requests on a client-side server.
+Designed a web crawler and search engine running off of a client-side Express API for scoring and displaying results
 > Created my Senior year of High School as an academic project.
 
 ![image](https://github.com/owenshadburne/Web-Browser/assets/124115160/e675a943-ef85-4071-8e85-2eab733592fc)
